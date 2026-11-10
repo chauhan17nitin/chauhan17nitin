@@ -29,6 +29,6 @@ Go · JavaScript · Elasticsearch · LLMs, RAG, MCP · Claude Code / AI agents
 
 #### Find me
 
-[LinkedIn](https://www.linkedin.com/in/nitinchauhan1299/)
+[LinkedIn](https://www.linkedin.com/in/nitinchauhan1299/) · [Twitter](https://x.com/chauhan17nitin) · [Reddit](https://i.pinimg.com/736x/ee/9d/9a/ee9d9aeba519233b6cbf241c6badf479.jpg)
 
 **Think. Explore. Build. Break. Learn. Repeat.**
