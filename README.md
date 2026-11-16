@@ -14,6 +14,7 @@ A builder at heart. I like taking ideas from zero to one, through the ambiguity,
 
 #### Stuff my curious brain wouldn't let me not build
 
+- **[post-master](https://github.com/chauhan17nitin/post-master)**: a light, AI-native Postman. Claude Code tests your APIs, saves every test case as its own readable file, and you review all of it in a browser UI.
 - **[Pulse AI](https://play.google.com/store/apps/details?id=com.pulseai)**: an AI wingman that writes flirty replies and pickup lines for your Tinder and Hinge chats.
 - **[Bunny AI](https://play.google.com/store/apps/details?id=com.oxygenai)**: turns voice recordings of meetings, lectures and conversations into transcripts and short summaries, for free.
 - A few more agentic AI products I'm cooking right now.
